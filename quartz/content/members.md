@@ -46,24 +46,28 @@ View Ritesh's full [CV](Ritesh_Kumar_CV.pdf) here.
 ---
 ## Graduate Students
 
-## 1. You could be here!
+## 1. Payel Santra
 <div class="member-card">
   <div class="member-photo-wrap">
-    <div class="member-photo member-photo--placeholder"></div>
+    <img class="member-photo" src="./images/mem_Phd_Payel_1.jpg" alt="Payel Santra" />
   </div>
   <div class="member-info">
 
 ### Education and experience
 
+#### M.Sc. in Physics
+**Visva-Bharati University**, Sriniketan, India (2023 - 2025)
 
 ### Research direction(s)
+Multiscale modeling for investigation of interfacial and interphasial phenomena
 
 ### Hobbies
+Watching movies, listening audio books
 
 ### Contact
 
 <div class="member-socials">
-  <a class="social-icon" href="mailto:" title="Email" aria-label="Email">
+  <a class="social-icon" href="mailto:payelmou4567@gmail.com" title="Email" aria-label="Email">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
   </a>
   <a class="social-icon" href="#" title="LinkedIn" aria-label="LinkedIn">
@@ -77,24 +81,28 @@ View Ritesh's full [CV](Ritesh_Kumar_CV.pdf) here.
   </div>
 </div>
 
-## 2. You could be here!
+## 2. Rushikesh K. Khandekar
 <div class="member-card">
   <div class="member-photo-wrap">
-    <div class="member-photo member-photo--placeholder"></div>
+    <img class="member-photo" src="./images/mem_Phd_Rushikesh_1.jpeg" alt="Rushikesh K. Khandekar" />
   </div>
   <div class="member-info">
 
 ### Education and experience
 
+#### M.Sc. in Physics
+**Fergusson College**, SPPU, Pune, India (2023 - 2025)
 
 ### Research direction(s)
+Developing AI models to accelerate the discovery of next-generation battery electrolytes
 
 ### Hobbies
+Trekking, travelling, cooking
 
 ### Contact
 
 <div class="member-socials">
-  <a class="social-icon" href="mailto:" title="Email" aria-label="Email">
+  <a class="social-icon" href="mailto:hrishikeshkhandekar578@gmail.com" title="Email" aria-label="Email">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
   </a>
   <a class="social-icon" href="#" title="LinkedIn" aria-label="LinkedIn">
@@ -120,6 +128,9 @@ View Ritesh's full [CV](Ritesh_Kumar_CV.pdf) here.
   <div class="member-info">
 
 ### Education and experience
+
+#### M.Sc. in Physics
+**Fergusson College**, SPPU, Pune, India (2023 - 2025)
 
 #### Ph.D. in Chemistry
 **Institut des Matériaux de Nantes Jean Rouxel**, Nantes, France (2022 – 2025)
@@ -151,24 +162,34 @@ Reading books, solving crosswords
 
 ## Interns
 
-## 1. Sourabh Subhashish Panda
+// ### Education and experience
+
+#### M.Sc. in Physics
+**Central University of South Bihar**, Bihar, India (2015 - Present)
+
+// ### Hobbies
+
+// ### Contact
+
+---
+
+## Lab alumni
+
+## 1. Sourabh Subhashish Panda (ARC Summer Intern)
 <div class="member-card">
   <div class="member-photo-wrap">
     <img class="member-photo" src="./images/mem_intern_Sourabh.jpeg" alt="Sourabh Subhashish Panda" />
   </div>
   <div class="member-info">
 
-### Education and experience
+### Duration
+May to July 2026
 
-#### M.Sc. in Physics
-**Central University of South Bihar**, Bihar, India (2015 - Present)
+### Current position
+M.Sc. in Physics (Central University of South Bihar, Bihar, India)
 
-### Hobbies
-
-### Contact
-
-<div class="member-socials">
-  <a class="social-icon" href="mailto:sourabhsubhasish7@gmail.com" title="Email" aria-label="Email">
+ <div class="member-socials">
+   <a class="social-icon" href="mailto:sourabhsubhasish7@gmail.com" title="Email" aria-label="Email">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
   </a>
   <a class="social-icon" href="https://www.linkedin.com/in/sourabh-subhasish-89b315258/" title="LinkedIn" aria-label="LinkedIn">
@@ -181,10 +202,6 @@ Reading books, solving crosswords
 
   </div>
 </div>
-
----
-
-## Lab alumni
 
 ---
 

@@ -6,14 +6,14 @@ title: "Home"
 
 <div class="blog-entry" id="blog-0">
   <img class="blog-image" src="./images/first_workflow_1.png" alt="workflow-1" />
-  <span class="blog-text"> Modern electrochemical energy devices &ndash; batteries, fuel cells, and electrolyzers &ndash; are governed by phenomena spanning several orders of magnitude in length and time. Molecular interactions determine interfacial processes, interfacial processes influence transport and reaction kinetics, and these ultimately dictate device performance, lifetime, and safety. Despite decades of progress, connecting these scales into predictive and generalizable frameworks remains a major scientific challenge. Our vision is to bridge these scales through trustworthy AI, scientific theory, and multiscale simulations, enabling a new generation of predictive tools for electrochemical energy research.
+  <span class="blog-text"> Modern electrochemical energy devices &ndash; batteries, fuel cells, and electrolyzers &ndash; are governed by phenomena spanning several orders of magnitude in length and time. Molecular interactions determine transport phenomena and interfacial processes, interfacial processes influence reaction kinetics, and these ultimately dictate device performance, lifetime, and safety. Despite decades of progress, connecting these scales into predictive and generalizable frameworks remains a major scientific challenge. Our vision is to bridge these scales through trustworthy AI, scientific theory, and multiscale simulations, enabling a new generation of predictive tools for electrochemical energy research.
  </span>
 </div>
 
 ### Challenge: breaking down silos
 Electrochemical energy systems cannot be understood from a single perspective. Chemists design molecules and materials. Electrochemists study charge-transfer reactions and interfacial phenomena. Materials scientists investigate structure–property relationships. Engineers optimize device architectures and operating conditions. Yet the behavior of a battery or fuel cell emerges from the interaction of all these components simultaneously. A molecular design decision may alter interfacial chemistry, which affects transport processes, which ultimately influences device performance.
 
-At IE$^2$ Lab, we seek to connect these traditionally separate domains through unified scientific and computational frameworks. Our goal is not merely to predict experimental outcomes, but to uncover the fundamental principles governing electrochemical systems.
+At IE$^2$ Lab, we seek to connect these traditionally disparate domains through unified scientific and computational frameworks. Our goal is not merely to predict experimental outcomes, but to uncover the fundamental principles governing electrochemical systems.
 
 ### Our mission
 Scientific discovery has historically advanced through a combination of theory, computation, and experiment. Artificial intelligence introduces a powerful new paradigm, but meaningful progress requires more than fitting data.
@@ -28,7 +28,7 @@ We believe that scientific AI should:
 
 Our research, therefore, focuses on developing AI systems that augment scientific reasoning rather than replace it.
 
-Even though, we are working at the frontier of science to accelerate the transition to sustainable energy, we are still guided by following quotes by famous scientists:
+Even though, we are working at the frontier of science to accelerate the transition to sustainable energy, we are still guided by following quotes by some of the greatest scientists of their time:
 
 <div class="quote-box quote-box--blue">
   <img class="quote-box__image" src="./images/PaulDirac.jpg" alt="Paul Dirac" />
@@ -76,9 +76,10 @@ Please refer to the [Research](research) page for detailed research philosophy a
 
 ## Recent news & highlights
 
-- [Samanvitha](members#1-samanvitha-k-v-shankar) joins as a Postdoc in the IE$^2$ Lab. She has joined our group after graduating from France and will be working on ML force field development for liquid electrolytes. | June 2026
+- [Rushikesh](members#3-rushikesh-k-khandekar) and [Payel](members#2-payel-santra) join as first graduate students in the IE$^2$ Lab. They will be working on AI model development for electrolyte discovery and multiscale modeling in batteries. | August 2026
+- [Samanvitha](members#4-samanvitha-k-v-shankar) joins as a Postdoc in the IE$^2$ Lab. She has joined our group after graduating from France and will be working on ML force field development for liquid electrolytes. | June 2026
 - [Ritesh](members) contributed to a perspective article on AI agents for catalysis published in [Chem Catalysis](publications#pub-27). | June 2026
-- [Sourabh](members#1-sourabh-subhashish-panda) joins as the first member of the IE$^2$ Lab as Summer Intern through the TCG CREST's [ARC programme](https://tcgcrestdtbu.ac.in/rise/). | May 2026
+- [Sourabh](members#5-sourabh-subhashish-panda) joins as the first member of the IE$^2$ Lab as Summer Intern through the TCG CREST's [ARC programme](https://tcgcrestdtbu.ac.in/rise/). | May 2026
 - [Ritesh](members)'s perspective article on AI for batteries published in *[Current Opinion in Chemical Engineering](publications#pub-25)* as a part of Special Issue on "Artificial Intelligence and Chemical Engineering" | April 2026
 - [Ritesh](members)'s co-authored work on electrolyte discovery using generative AI (`ElectrolyteGPT`) published in *[JACS Au](publications#pub-24)* (as a part of "Future Perspectives on Battery Chemistries" Special Issue) | April 2026
 - [Ritesh](members) contributed to blog post by a [Chemistry World](https://www.chemistryworld.com/news/machine-learning-cuts-complexity-of-computational-calculations-in-catalysis/4023047.article) (published by Royal Society of Chemistry) | March 2026

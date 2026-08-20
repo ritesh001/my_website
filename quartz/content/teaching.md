@@ -15,17 +15,22 @@ aliases:
 
 ## As co-instructors (TA)
 
-### Computational materials @ IISc Bangalore
+### Computational modeling of materials (January $-$ May 2020) @ IISc Bangalore
+Developed and taught new hands-on course content, including tutorials tailored to enhance practical learning, held weekly discussions, and graded exams.
 
-### Quantum chemistry and group theory @ IISc Bangalore
+### Quantum chemistry and group theory (August $-$ December 2019) @ IISc Bangalore
+Taught lectures, graded exams, and conducted exam performance review sessions.
 
 ## As guest lecturer
 
 ### Energy conversion and storage devices (February 2026) @ UChicago
+Link to presentation slides: https://uchicago.app.box.com/s/yimp2ttcn1azgs51olefv7j8ugb1t2d5
 
-### Thermodynamics and phase equilibria (November 2025) @ UChicago
+### Thermodynamics of phase equilibria (October 2025) @ UChicago
 
-### Energy conversion and storage devices (March 2023) @ UChicago 
+
+### Energy conversion and storage devices (March 2024) @ UChicago 
+Additionally served as a panel judge for student final presentations, providing critical feedback and assessments.
 
 ---
 
