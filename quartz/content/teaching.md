@@ -12,8 +12,9 @@ aliases:
 
 ## As sole instructor
 
+## As co-instructor
 
-## As co-instructors (TA)
+## As TA
 
 ### Computational modeling of materials (January $-$ May 2020) @ IISc Bangalore
 Developed and taught new hands-on course content, including tutorials tailored to enhance practical learning, held weekly discussions, and graded exams.

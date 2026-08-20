@@ -6,7 +6,7 @@ aliases:
 
 ## Research philosophy
 
-Our research combines **artificial intelligence**, **computational chemistry**, and **experimental validation** to accelerate the discovery of materials for sustainable energy applications. I focus on developing data-driven frameworks that leverage machine learning, molecular simulations, and high-throughput experimentation to design next-generation battery electrolytes and catalysts.
+Our research combines **artificial intelligence** (AI), **computational physics/chemistry/materials science**, and **scientific theory** to accelerate the discovery of materials for sustainable energy applications. We focus on developing data-driven frameworks that leverage machine learning, molecular simulations, and high-throughput experimentation to design next-generation battery electrolytes and catalysts.
 
 ---
 
@@ -16,53 +16,21 @@ Our research combines **artificial intelligence**, **computational chemistry**, 
 
 ## Research themes (overarching)
 
-### 1. AI-driven electrolyte discovery for next-generation batteries
-
-**Objective**: Accelerate the discovery of optimal electrolyte formulations for lithium metal and anode-free batteries using machine learning.
-
-**Key contributions:**
-- Developed **Electrolytomics**: A unified big data approach integrating multiple electrolyte databases (20,000+ entries) for systematic design and discovery ([*Chem. Mater.* 2025](https://doi.org/10.1021/acs.chemmater.4c03309))
-- Created **active learning** frameworks that reduced experimental screening by 80% while maintaining discovery accuracy ([*Nat. Commun.* 2025](https://doi.org/10.1038/s41467-025-56398-7))
+### 1. Battery data extraction through automated literature mining
 
 ---
 
-### 2. Understanding electrolyte effects in electrochemical reactions
-
-**Objective**: Elucidate fundamental mechanisms of how aprotic electrolytes influence electrochemical transformations.
-
-**Key discoveries:**
-- Discovered that **water clustering** in aprotic media modulates activity and enables hydrogenated product formation during CO electroreduction ([*JACS* 2025](https://doi.org/10.1021/jacs.4c13374))
-- Revealed how **water hydrogen bonding** within nonaqueous environments controls reactivity in electrochemical transformations ([*Nat. Catal.* 2024](https://doi.org/10.1038/s41929-024-01155-6))
-- Formulated **computational descriptors** from MD simulations to predict electrolyte performance in CO₂/CO reduction
+### 2. Universal machine learning force field development for battery electrolytes
 
 ---
 
-### 3. Machine learning for materials property prediction
-
-**Objective**: Develop interpretable ML models for accurate prediction of materials properties.
-
-**Achievements:**
-- Introduced **chemical hardness-driven interpretable ML** for rapid photocatalyst screening, achieving 90% accuracy with 10× speed improvement ([*NPJ Comput. Mater.* 2021](https://doi.org/10.1038/s41524-021-00669-4))
-- Created **graph neural networks (GNNs)** for predicting electrolyte properties including conductivity, viscosity, and electrochemical stability
-- Developed **transfer learning** approaches to overcome data scarcity in materials discovery
+### 3. AI-driven materials discovery for next-generation batteries
 
 ---
 
-### 4. Rational design of catalysts
-
-**Objective**: Establish design principles for efficient catalysts in key industrial reactions.
-
-**Major contributions:**
-- Developed **electronic structure-based design principles** for single-atom catalysts in nitrogen reduction reaction ([*ChemCatChem* 2020](https://doi.org/10.1002/cctc.202000744))
-- Established **universal criteria for Dirac cone splitting** in 2D materials for electronic applications ([*J. Phys. Chem. C* 2019](https://doi.org/10.1021/acs.jpcc.9b07851))
-- Designed **van der Waals heterostructures** (C<sub>2</sub>N/WS<sub>2</sub>) as promising water splitting photocatalysts ([*J. Catal.* 2018](https://doi.org/10.1016/j.jcat.2018.01.005))
+### 4. Multiscale modeling for understanding interfacial and interphasial phenomena
 
 ---
-
-### 5. AI-Powered scientific software development
-
-**Objective**: Build tools that automate scientific workflows and accelerate discovery.
-
 
 **Note:**
 Refer [Software](software) page for implementation of some of our research projects.

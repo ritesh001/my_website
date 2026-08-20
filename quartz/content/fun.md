@@ -22,7 +22,7 @@ aliases:
 
 <div class="blog-entry" id="out-2">
   <img class="blog-image" src="./images/group_pic_073126.jpeg" alt="out2" />
-  <span class="blog-text"> The IE<sup>2</sup> Lab bid adieue to <a href="members#5-sourabh-subhashish-panda">Sourabh</a>, who completed his time as a Summer Intern in July 2026 (time flies by!). We celebrated his farewell by watching the Odyssey movie, followed by dinner. We wish him all the best for his future endeavors!
+  <span class="blog-text"> The IE<sup>2</sup> Lab bid adieu to <a href="members#5-sourabh-subhashish-panda">Sourabh</a>, who completed his time as a Summer Intern (time flies by!). We celebrated his farewell by watching the movie 'Oppenheimer', followed by dinner at Taco Bell. We wish him all the best for his future endeavors!
   </span>
 </div>
 
@@ -30,7 +30,7 @@ aliases:
 
 <div class="blog-entry" id="out-3">
   <img class="blog-image" src="./images/group_pic_081826.jpeg" alt="out3" />
-  <span class="blog-text"> The IE<sup>2</sup> Lab keeps on expanding! We welcome the first set of graduate students &ndash; <a href="members#2-payel-santra">Payel</a> and <a href="members#3-rushikesh-k-khandekar">Rushikesh</a>, who joined in August 2026. We celebrated their arrival with a grand lunch! We are so glad to have you on board and wish you both the very best for your journey ahead! 
+  <span class="blog-text"> The IE<sup>2</sup> Lab keeps on expanding! We welcome the very first set of graduate students &ndash; <a href="members#2-payel-santra">Payel</a> and <a href="members#3-rushikesh-k-khandekar">Rushikesh</a>, who joined in August 2026. We celebrated their arrival with a grand lunch! We are so glad to have you on board and wish you both the very best for your journey ahead! 
   </span>
 </div>
 

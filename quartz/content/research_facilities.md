@@ -57,3 +57,4 @@ aliases:
 
 ### Fugaku Supercomputer, Japan
 
+### Param Rudra, S N Bose Centre, Kolkata, India
