@@ -28,13 +28,21 @@ We believe that scientific AI should:
 
 Our research, therefore, focuses on developing AI systems that augment scientific reasoning rather than replace it.
 
-Even though, we are working at the frontier of science to accelerate the transition to sustainable energy, we are still guided by following quotes by some of the greatest scientists of their time:
+Even though, we are working at the frontier of science to accelerate the transition to sustainable energy, we are still guided by following quotes by some of the greatest scientific minds of all time:
 
 <div class="quote-box quote-box--blue">
   <img class="quote-box__image" src="./images/PaulDirac.jpg" alt="Paul Dirac" />
   <div class="quote-box__content">
     <p class="quote-box__text">"The fundamental laws necessary for the mathematical treatment of a large part of physics and the whole of chemistry are thus completely known, and the difficulty lies only in the fact that application of these laws leads to equations that are too complex to be solved."</p>
     <p class="quote-box__author">— Paul A. M. Dirac</p>
+  </div>
+</div>
+
+<div class="quote-box quote-box--blue">
+  <img class="quote-box__image" src="./images/Feynman.avif" alt="Feynman" />
+  <div class="quote-box__content">
+    <p class="quote-box__text">"What I cannot create, I do not understand."</p>
+    <p class="quote-box__author">— Richard Feynman</p>
   </div>
 </div>
 

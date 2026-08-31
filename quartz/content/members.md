@@ -22,7 +22,7 @@ aliases:
 **Indian Institute of Science**, Bangalore, India (2017 – 2022)
 
 ### Hobbies
-Physical activities, meditation, walking, reading books, watching TV shows
+Strength training & cardio, meditation, hiking, reading books, watching movies & TV shows
 
 ### Contact
 
@@ -67,7 +67,7 @@ Watching movies, listening audio books
 ### Contact
 
 <div class="member-socials">
-  <a class="social-icon" href="mailto:payelmou4567@gmail.com" title="Email" aria-label="Email">
+  <a class="social-icon" href="mailto:payel.santra_phd26@tcgcrestdtbu.ac.in" title="Email" aria-label="Email">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
   </a>
   <a class="social-icon" href="#" title="LinkedIn" aria-label="LinkedIn">
@@ -102,7 +102,7 @@ Trekking, travelling, cooking
 ### Contact
 
 <div class="member-socials">
-  <a class="social-icon" href="mailto:hrishikeshkhandekar578@gmail.com" title="Email" aria-label="Email">
+  <a class="social-icon" href="mailto:rushikesh.sr_phd26@tcgcrestdtbu.ac.in" title="Email" aria-label="Email">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"/></svg>
   </a>
   <a class="social-icon" href="#" title="LinkedIn" aria-label="LinkedIn">
@@ -130,7 +130,7 @@ Trekking, travelling, cooking
 ### Education and experience
 
 #### M.Sc. in Physics
-**Fergusson College**, SPPU, Pune, India (2023 - 2025)
+**Banaras Hindu University**, Varanasi, India (2020 - 2022)
 
 #### Ph.D. in Chemistry
 **Institut des Matériaux de Nantes Jean Rouxel**, Nantes, France (2022 – 2025)
