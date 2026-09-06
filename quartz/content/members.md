@@ -22,7 +22,7 @@ aliases:
 **Indian Institute of Science**, Bangalore, India (2017 – 2022)
 
 ### Hobbies
-Strength training & cardio, meditation, hiking, reading books, watching movies & TV shows
+Strength & cardio training, meditation, hiking, reading books, watching movies & TV shows
 
 ### Contact
 
@@ -59,7 +59,7 @@ View Ritesh's full [CV](Ritesh_Kumar_CV.pdf) here.
 **Visva-Bharati University**, Sriniketan, India (2023 - 2025)
 
 ### Research direction(s)
-Multiscale modeling for investigation of interfacial and interphasial phenomena
+[Multiscale modeling for investigation of interfacial and interphasial phenomena](research#4-multiscale-modeling-for-unraveling-interfacial-and-interphasial-phenomena)
 
 ### Hobbies
 Watching movies, listening audio books
@@ -94,7 +94,7 @@ Watching movies, listening audio books
 **Fergusson College**, SPPU, Pune, India (2023 - 2025)
 
 ### Research direction(s)
-Developing AI models to accelerate the discovery of next-generation battery electrolytes
+[Developing AI models to accelerate the discovery of next-generation battery electrolytes](research#3-ai-accelerated-materials-discovery-for-next-generation-batteries)
 
 ### Hobbies
 Trekking, travelling, cooking
@@ -129,14 +129,14 @@ Trekking, travelling, cooking
 
 ### Education and experience
 
-#### M.Sc. in Physics
+#### M.Sc. in Chemistry
 **Banaras Hindu University**, Varanasi, India (2020 - 2022)
 
 #### Ph.D. in Chemistry
 **Institut des Matériaux de Nantes Jean Rouxel**, Nantes, France (2022 – 2025)
 
 ### Research direction(s)
-Developing machine learning polarizable force fields for liquid electrolytes for diverse next-generation battery chemistries
+[Developing machine learning polarizable force fields for liquid electrolytes for diverse next-generation battery chemistries](research#2-universal-machine-learning-force-field-development-for-battery-electrolytes)
 
 ### Hobbies
 Reading books, solving crosswords

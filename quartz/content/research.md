@@ -4,17 +4,20 @@ aliases:
   - "research/index"
 ---
 
-## Research philosophy
+## Research philosophy: create $\rightarrow$ understand $\rightarrow$ disseminate
 
 Our research combines **artificial intelligence** (AI), **computational physics/chemistry/materials science**, and **scientific theory** to accelerate the discovery of materials for sustainable energy applications. We focus on developing data-driven frameworks that leverage machine learning, molecular simulations, and high-throughput experimentation to design next-generation battery electrolytes and catalysts.
 
+
+We also strive to deliver tangible impact through development of open-source software and utilities to enable the broader community to benefit from our research. Apart from directly benefitting broader research community, we are also interested in developing accessible materials targeted towards budding minds to pique their interest in STEM and sustainable energy research.
+
 ---
 
-## Mentoring philosophy
+## Mentoring philosophy: foster growth mindset
 
 ---
 
-## Research themes (overarching)
+## Research themes
 
 ### 1. Battery data extraction through automated literature mining
 
@@ -24,11 +27,15 @@ Our research combines **artificial intelligence** (AI), **computational physics/
 
 ---
 
-### 3. AI-driven materials discovery for next-generation batteries
+### 3. AI-accelerated materials discovery for next-generation batteries
 
 ---
 
-### 4. Multiscale modeling for understanding interfacial and interphasial phenomena
+### 4. Multiscale modeling for unraveling interfacial and interphasial phenomena
+
+---
+
+### 5. Physics-informed battery lifetime prediction
 
 ---
 

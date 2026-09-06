@@ -38,11 +38,11 @@ Even though, we are working at the frontier of science to accelerate the transit
   </div>
 </div>
 
-<div class="quote-box quote-box--blue">
+<div class="quote-box quote-box--orange">
   <img class="quote-box__image" src="./images/Feynman.avif" alt="Feynman" />
   <div class="quote-box__content">
     <p class="quote-box__text">"What I cannot create, I do not understand."</p>
-    <p class="quote-box__author">— Richard Feynman</p>
+    <p class="quote-box__author">— Richard P. Feynman</p>
   </div>
 </div>
 
@@ -64,7 +64,7 @@ Even though, we are working at the frontier of science to accelerate the transit
 
 ---
 
-## What do we do?
+## Our approach: Bridge data to knowledge to materials discovery to device efficiency
 
 <div class="blog-entry" id="blog-01">
   <img class="blog-image" src="./images/research-tools.gif" alt="workflow-2" />
